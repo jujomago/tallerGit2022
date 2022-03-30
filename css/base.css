@@ -1,0 +1,17 @@
+body{
+    background: #292929;
+    color: white;
+}
+section {
+    background-color: #404040;
+    border: 2px solid #75adb7;
+    height: 500px;    
+    position:absolute;
+    left:20px;
+    right:20px;
+}
+.withtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
