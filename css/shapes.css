@@ -7,3 +7,13 @@
     top: 30px;
     left: 100px;
 }
+
+#recJheison{
+    width: 100px;
+    height: 50px;
+    background: green;
+    position: absolute;
+    top: 30px;
+    left: 200px;
+}
+
