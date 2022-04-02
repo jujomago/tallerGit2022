@@ -16,11 +16,14 @@
     top: 30px;
     left: 200px;
 }
-#ovalRodolfo {
-    width: 200px;
-    height: 100px;
-    background:blueviolet;
-    border-radius: 100px / 50px;
+#coneRodo{
+    width: 0;
+    height: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-top: 100px solid red;
+    border-radius: 50%;
     float: right;
   }
+
 
