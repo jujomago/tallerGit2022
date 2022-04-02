@@ -35,3 +35,16 @@
     top: 30px;
     left: 350px;
 }
+#rombojhos {
+    width: 100px; 
+    height: 100px; 
+    background: #428bca;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 170px;
+    left: 350px;
+}
