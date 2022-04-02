@@ -17,6 +17,15 @@
     left: 200px;
 }
 
+#ovalCristian {
+    width: 150px;
+    height: 50px;
+    border-radius: 0 50% / 0 100%;
+    background: #5cb85c;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
 #ovaleShape{
     width: 200px;
     height: 100px;
@@ -26,4 +35,3 @@
     top: 30px;
     left: 350px;
 }
-
