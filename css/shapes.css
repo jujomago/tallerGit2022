@@ -26,3 +26,12 @@
     top: 120px;
     left: 100px;
 }
+#ovaleShape{
+    width: 200px;
+    height: 100px;
+    background: rgb(134, 106, 187);
+    border-radius: 100px / 50px;
+    position: absolute;
+    top: 30px;
+    left: 350px;
+}
