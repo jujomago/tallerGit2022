@@ -16,6 +16,15 @@
     top: 30px;
     left: 200px;
 }
+#parallelogram{
+    width: 150px;
+    height: 100px;
+    transform: skew(20deg);
+    background: red;
+    float:right;
+    margin-right: 30px;
+  }
+
 
 #ovalCristian {
     width: 150px;
