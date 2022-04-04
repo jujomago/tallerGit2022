@@ -57,3 +57,14 @@
     top: 170px;
     left: 350px;
 }
+
+#roundSquareIvan{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: white;
+    position: absolute;
+    border-radius: 25%;
+    top: 40px;
+    left: 600px;
+}
