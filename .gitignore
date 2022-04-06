@@ -1,0 +1,4 @@
+.env
+*.json
+fileC
+node_modules/
