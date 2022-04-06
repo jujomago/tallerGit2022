@@ -7,3 +7,64 @@
     top: 30px;
     left: 100px;
 }
+
+#recJheison{
+    width: 100px;
+    height: 50px;
+    background: green;
+    position: absolute;
+    top: 30px;
+    left: 200px;
+}
+#parallelogram{
+    width: 150px;
+    height: 100px;
+    transform: skew(20deg);
+    background: red;
+    float:right;
+    margin-right: 30px;
+  }
+
+
+#ovalCristian {
+    width: 150px;
+    height: 50px;
+    border-radius: 0 50% / 0 100%;
+    background: #5cb85c;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+#ovaleShape{
+    width: 200px;
+    height: 100px;
+    background: rgb(134, 106, 187);
+    border-radius: 100px / 50px;
+    position: absolute;
+    top: 30px;
+    left: 350px;
+}
+#rombojhos {
+    width: 100px; 
+    height: 100px; 
+    background: #428bca;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 170px;
+    left: 350px;
+}
+
+#roundSquareIvan{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: white;
+    position: absolute;
+    border-radius: 25%;
+    top: 40px;
+    left: 600px;
+}
