@@ -13,7 +13,15 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: all .2s ease-out;
 }
 h1{
     text-align: center;
+}
+.withtext:hover,
+.withtext:active{
+  border: 4px solid white;
+  transform: scale(.9);
+  background-color: yellow !important;
+  color:#404040 !important;
 }
